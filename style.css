@@ -52,7 +52,7 @@ body{
 	background-color: #eaedef;
 }
 .number:hover{
-	background-color: #e7e7e766;
+	background-color: #e7e7e7;
 }
 .number, .operator{
 	cursor: pointer;
@@ -62,7 +62,6 @@ body{
 }
 .operator:focus, .number:focus, .empty:focus{
 	outline: 0;
-    background-color: #e7e7e7;
 }
 
 
